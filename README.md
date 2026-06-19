@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi, I'm Emmanuel Abia Lonku 👋</h1>
+<h1 align="center"> I'm Emmanuel Abia Lonku </h1>
 
 <p align="center">
   <em>Engineer passionate about data and energy systems</em>
