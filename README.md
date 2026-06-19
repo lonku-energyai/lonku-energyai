@@ -14,8 +14,13 @@
 ### About me
 
 - ⚙️ Engineer working at the intersection of **energy systems, simulation, and data**.
-- 🛢️ Background in **Petroleum / Thermofluid Engineering** Cameroon, **Data Science & Analytics** Oklahoma City University, **AI/ML** UT Austin.
 - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/lonku/).
+
+**🎓 Education**
+
+- MEng, Petroleum Engineering &amp; MSc, Thermofluids — Cameroon
+- MS, Data Science &amp; Analytics — Oklahoma City University
+- Postgraduate Program in AI/ML — UT Austin
 
 ---
 
